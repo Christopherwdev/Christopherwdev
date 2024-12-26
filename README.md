@@ -23,7 +23,7 @@ Hi there! 👋 I'm Christopher Wong, a Biotech student passionate about the inte
 
 - **Bioinformatics & Computational Biology Tools:**
 
-  ![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![BLAST](https://img.shields.io/badge/BLAST-007bff?style=for-the-badge&logo=ncbi&logoColor=white) 
 
 
@@ -32,7 +32,7 @@ Hi there! 👋 I'm Christopher Wong, a Biotech student passionate about the inte
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Bioconductor](https://img.shields.io/badge/Bioconductor-007bff?style=for-the-badge&logo=bioconductor&logoColor=white) *(if applicable)*
+  ![Bioconductor](https://img.shields.io/badge/Bioconductor-007bff?style=for-the-badge&logo=bioconductor&logoColor=white) 
 
 
 - **Other Skills:**  App Inventor, Advanced Scratch, UI Design, Data analysis, statistical modeling, scientific writing, research methodologies.
