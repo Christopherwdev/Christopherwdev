@@ -4,9 +4,12 @@
 
 Hi there! 👋 I'm Christopher Wong, a Biotech student passionate about the intersection of computer science and biotech.  I'm driven by the potential of computational tools to revolutionize neurological and bioinformatics research and discovery.  I enjoy building software solutions to address these challenges, and I'm always eager to learn new technologies and collaborate on exciting projects.  In my free time, I explore the latest advancements computational biology.
 
+I recently made this Github page to upload some projects that I have been working on during the last few years.
+
 ## My Project Website
 [https://sites.google.com/view/wong-kin-on-christopher/computer-science](https://sites.google.com/view/wong-kin-on-christopher/computer-science)
 
+Please do see this, it contains all of my creative, exciting projects, that can hopefully inspire you with new ideas.
 ## Skills
 
 - **Programming Languages:**
