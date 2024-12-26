@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm Christopher Wong, a Biotech student passionate about the intersection of computer science and biotech.  I'm driven by the potential of computational tools to revolutionize neurological and bioinformatics research and discovery.  I enjoy building software solutions to address these challenges, and I'm always eager to learn new technologies and collaborate on exciting projects.  In my free time, I explore the latest advancements computational biology.
+Hi there! 👋 I'm Christopher Wong, a secondary school student passionate about the intersection of computer science and biotech.  I'm driven by the potential of computational tools to revolutionize neurological and bioinformatics research and discovery.  I enjoy building software solutions to address these challenges, and I'm always eager to learn new technologies and collaborate on exciting projects.  In my free time, I explore the latest advancements computational biology.
 
 I recently made this Github page to upload some projects that I have been working on during the last few years.
 
